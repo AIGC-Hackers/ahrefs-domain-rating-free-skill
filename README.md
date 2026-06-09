@@ -81,7 +81,7 @@ JSON output:
 SKILL.md                                      Agent skill instructions
 scripts/ahrefs-domain-rating-free.py          Dependency-free Python wrapper
 README.md                                     Install and usage docs
-LICENSE                                       MIT license
+LICENSE                                       MIT-0 license
 ```
 
 ## Verification
